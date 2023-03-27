@@ -93,19 +93,19 @@ password = 'admin123'
 #         print("z is greater")
 
 
-x = int(input("Enter x: "))
-y = int(input("Enter y: "))
-z = int(input("Enter z: "))
-if x > y:
-    if x > z:
-        print(x, z, y)
-    else:
-        print(z, x, y)
-else:
-    if y > z:
-        print(y, z, x)
-    else:
-        print(z, y, x)
+# x = int(input("Enter x: "))
+# y = int(input("Enter y: "))
+# z = int(input("Enter z: "))
+# if x > y:
+#     if x > z:
+#         print(x, z, y)
+#     else:
+#         print(z, x, y)
+# else:
+#     if y > z:
+#         print(y, z, x)
+#     else:
+#         print(z, y, x)
 
 # if x > y:
 #     print(x)
@@ -113,3 +113,14 @@ else:
 # else:
 #     print(y)
 #     print(x)
+
+
+language = 'chinese'
+
+match language:
+    case 'nepali':
+        print("nepali")
+    case 'english':
+        print("english")
+    case _:
+        print("not found")
