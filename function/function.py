@@ -235,4 +235,20 @@
 
 # print(__file__)
 
-print(__name__)
+# print(__name__)
+
+# import calculator as calc
+#
+# print(calc.add(10, 20))
+# print(calc.sub(10, 20))
+
+# import os
+# import sys
+
+# import datetime
+#
+# print(datetime.datetime.now())
+#
+# import calendar
+#
+# print(calendar.calendar(2021))
