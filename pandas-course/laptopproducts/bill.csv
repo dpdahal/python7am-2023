@@ -1,0 +1,6 @@
+pid,product_name,quantity,price,cid,cat_name,total_price,oid,uid,username
+1,dell ,5,20000,1,computer,100000,1,1,ram
+2,acer,10,30000,2,laptop,300000,4,1,ram
+1,dell ,5,20000,1,computer,100000,2,2,shyam
+2,acer,10,30000,2,laptop,300000,5,2,shyam
+1,dell ,5,20000,1,computer,100000,3,3,sita
